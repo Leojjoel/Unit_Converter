@@ -46,7 +46,7 @@ cd unit-converter-tkinter
 2. **Save the code:** Ensure your code is saved in a file named `main.py` (or preferred name).
 3. **Launch the application:**
 ```bash
-python main.py
+python miniproject2.0.py
 
 ```
 
